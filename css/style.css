@@ -1,0 +1,7 @@
+#carouselBasicExample,
+.carousel-inner,
+.carousel-item,
+.carousel-item.active {
+  height: 100vh;
+  background-color: red;
+}
